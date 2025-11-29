@@ -1,7 +1,7 @@
 # Radar 360
 <p>Proyecto opensource que implemnta IA para analizar datos abiertos del portal datos.gov.co</p>
 <div style="text-align:center">
-  <img src="https://herramientas.datos.gov.co/sites/default/files/2025-11/Imagen%20Radar%20360_0.jpg" alt="Transformación de datos en seguridad"/>
+  ![Transformación de datos en seguridad](https://3-33.co/360_0.jpg)
 </div>
 
 # Introducción
@@ -14,6 +14,14 @@
 <p>El proyecto busca no solo entregar información, sino empoderar a ciudadanos, entidades locales y autoridades con herramientas prácticas que mejoran la prevención, la planeación y la toma de decisiones. Su enfoque es inclusivo, escalable y adaptable, lo que permite que Radar 360 evolucione hacia una plataforma de seguridad inteligente de alcance global. 
 
 <p>Este proyecto fue realizado en el marco del concurso de ¡Datos al Ecosistema 2025!</p>
+
+## :hammer:Funcionalidades del proyecto
+- `Detección de GPS para geolocalizar al usuario en el mapa`: descripción de la funcionalidad 1
+- `Controles de accesibilidad de GOV.CO`: contraste, disminución letra, aumento letra, meta-tags para lectores de pantalla
+- `Filtros por departamento y municipio`: Dada la selección actualiza el mapa con delitos de hurto, violencia intrafamiliar, indole sexual y conflicto armado
+  -`En el caso del Departamento de Santander agrupa por provincias (sectores)`
+- `Asistente virtual potencializado con Open AI`: Apartir del conjunto de datos abiertos se crearon vectores para responder a un flujo de chat con la IA y resumir datos de interes al ciudadano
+
 
 # Demo
 <a href="https://3-33.co/tablero-web"> Demo Radar 360</a>
