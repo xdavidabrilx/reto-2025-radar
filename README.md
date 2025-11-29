@@ -1,8 +1,12 @@
 # Radar 360
 <p>Proyecto opensource que implemnta IA para analizar datos abiertos del portal datos.gov.co</p>
 <div style="text-align:center">
-  ![Transformación de datos en seguridad](https://3-33.co/360_0.jpg)
+  <p align="center">
+   <img src="https://3-33.co/360_0.jpg" #vitrinedev/>
+  </p>
 </div>
+
+
 
 # Introducción
 <p>Radar 360 es una solución tecnológica integral diseñada para fortalecer la seguridad ciudadana mediante el uso inteligente de datos. Surge como una iniciativa enfocada inicialmente en el departamento de Santander, pero con la visión de escalar hacia un modelo replicable a nivel nacional, adaptándose a las necesidades de cada territorio.</p>
