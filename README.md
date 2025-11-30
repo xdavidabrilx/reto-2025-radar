@@ -55,6 +55,12 @@
   <li>
     <p>Del portal datos.gov.co su tomaron las siguientes fuentes:</p>
        <ul>
+                    <li><a href="https://www.datos.gov.co/dataset/Oficinas-de-Atenci-n-al-Ciudadano-Polic-a-Nacional/mhdb-2eis/data_preview">Oficinas de atención al ciudadado - Policia Nacional</a></li>
+         <li><a href="https://www.datos.gov.co/Seguridad-y-Defensa/40Delitos-ocurridos-en-el-Municipio-de-Bucaramanga/75fz-q98y/about_data">Delitos ocurridos en el Municipio de Bucaramanga</a></li>
+         <li><a href="https://www.datos.gov.co/Seguridad-y-Defensa/150-Informaci-n-delictiva-del-municipio-de-Bucaram/x46e-abhz/about_data">Información delictiva del municipio de Bucaramanga</a></li>
+          <li><a href="https://www.datos.gov.co/Seguridad-y-Defensa/Reporte-Delitos-sexuales-Polic-a-Nacional/fpe5-yrmw/about_data">Reporte Delitos sexuales Policía Nacional</a></li>
+         <li><a href="https://www.datos.gov.co/Seguridad-y-Defensa/Reporte-Delito-Violencia-Intrafamiliar-Polic-a-Nac/vuyt-mqpw/data_preview">Reporte Delitos Violencia Intrafamiliar Policía Nacional</a></li>
+         <li><a href="https://www.datos.gov.co/Seguridad-y-Defensa/Reporte-Hurto-por-Modalidades-Polic-a-Nacional/d4fr-sbn2/about_data">Reporte Delito de Hurtos Policía Nacional</a></li>
        </ul>    
   </li>
   <li>
