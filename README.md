@@ -2,7 +2,7 @@
 <p>Proyecto opensource que implemnta IA para analizar datos abiertos del portal datos.gov.co</p>
 <div style="text-align:center">
   <p align="center">
-   <img src="https://3-33.co/360_0.jpg" #vitrinedev/>
+   <img src="https://3-33.co/360_1.jpg" #vitrinedev/>
   </p>
 </div>
 
