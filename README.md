@@ -76,12 +76,7 @@
 # Demo
 <a href="https://3-33.co/tablero-web"> Demo Radar 360</a>
 
-<iframe width="315" height="560"
-src="https://www.youtube.com/embed/5kLPEoQbtvs"
-title="YouTube video player"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+[Demo Video](https://youtu.be/5kLPEoQbtvs "@embed")
 
 # Autores
 <ul>
