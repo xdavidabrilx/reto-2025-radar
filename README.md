@@ -20,11 +20,9 @@
 <p>Este proyecto fue realizado en el marco del concurso de ¡Datos al Ecosistema 2025!</p>
 
 ## :green_heart: Problematica a resolver: Journey del ciudadano
-<p>Un ciudadano Colombiano, principalmente del municipio de Santander requiere enterarse sobre el estado actual de la seguridad en su región. Esto con el fín de tomar desiciones importantes, por ejemplo, para mudarse (por estudio, trabajo, etc), cuadrar sus rutas de movilidad (Donde es más seguro, que horas son más seguras), en caso de una situación de inseguridad a donde dirigirse.</p>
-
-<p>Teniendo en cuenta esta necesidad y la oportunidad que brindan los datos abiertos publicados en datos.gov.co para solucionar esta necesidad nace Radar 360. Un tablero web que pre-procesa, organiza y presenta los datos de una forma clara y amigable para cualquier ciudadano; así como poner a disposición un agente potencializado con IA que por medio d eun chat crea una conversación sencilla y clara con los ciudadanos.</p>
-
-<p>De esta manera el ciudadano por medio de su navegaor o App previamente instalada en su dispositivo movíl, el accede a Radar 360 para que sea geolocalizado e inicie presentando cifras relacioandas a hurtos, violencia intrafamiliar, delitos sexuales y conflicto armado. En caso de tener preguntas puntuales, cuenta con un asistente IA para hacer preguntas en lenguaje natural y obtener orientación por parte del agente.</p>
+<p>Un ciudadano colombiano, especialmente en el departamento de Santander, necesita conocer el estado actual de la seguridad en su región. <p>Esta información es clave para tomar decisiones importantes, como elegir dónde vivir por motivos de estudio o trabajo, planificar rutas de movilidad (identificando zonas y horarios más seguros) y saber a dónde acudir en caso de enfrentar una situación de inseguridad.</p>
+Teniendo en cuenta esta necesidad, y aprovechando la oportunidad que ofrecen los datos abiertos disponibles en datos.gov.co, nace Radar 360: un tablero web que preprocesa, organiza y presenta la información de manera clara, comprensible y accesible para cualquier ciudadano. Además, cuenta con un agente conversacional potenciado con IA que, mediante un chat, ofrece respuestas sencillas y explicaciones directas basadas en los datos oficiales.</p>
+<p>A través de su navegador o de la aplicación instalada en su dispositivo móvil, el ciudadano accede a Radar 360, se geolocaliza, y el sistema le muestra cifras relevantes sobre hurtos, violencia intrafamiliar, delitos sexuales y conflicto armado en su entorno cercano. Si necesita ampliar o profundizar en la información, puede interactuar con el asistente de IA para hacer preguntas en lenguaje natural y recibir orientación inmediata y contextualizada.</p>
 
 ## :hammer:Funcionalidades del proyecto
 - `Detección de GPS para geolocalizar al ciudadano en el mapa`: descripción de la funcionalidad 1
@@ -83,3 +81,7 @@
   <li>Maria Medina - Contadora pública / Analista de datos</li>
   <li>Yesid Abril - Docente</li>
   <li>David Abril - Ingeniero de sistemas</li>
+  
+# Publicación en Datos abiertos
+<a href="https://herramientas.datos.gov.co/usos/radar-360"> https://herramientas.datos.gov.co/usos/radar-360 (Estado: En revisión para públicación)</a>
+
