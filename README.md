@@ -81,7 +81,7 @@ Teniendo en cuenta esta necesidad, y aprovechando la oportunidad que ofrecen los
   <li>Maria Medina - Contadora pública / Analista de datos</li>
   <li>Yesid Abril - Docente</li>
   <li>David Abril - Ingeniero de sistemas</li>
-  
+</ul> 
 # Publicación en Datos abiertos
 <a href="https://herramientas.datos.gov.co/usos/radar-360"> https://herramientas.datos.gov.co/usos/radar-360 (Estado: En revisión para públicación)</a>
 
